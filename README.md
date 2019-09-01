@@ -1,3 +1,4 @@
-# StartNG-Task2
-So far it has been a learnig and challenging experience at StartNG. My appreciation goes to all the facilitators/instuctors and my fellow intern colleges who have made this possible. and most especially @theflutterwave, @startdotng and @hnginternship who have shared there resources with us.
-visit: https://twitter.com/AkaEmekaDav/status/1166089621983379457
+# StartNG-Task3
+Learning how CSS (Cascadine Style Sheet) has Made HTML (Hyper-Text Mark-up Language) Better, 
+have been quite tasking yet a wort while learning experience for me. CSS incorperates beauty to HTML.
+visit my lucid blog for more info.: https://lucid.blog/akaemekadav/posts
